@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+  }
+  h1{
+      color: purple;
+  }
+  h1, p{
+    text-align: center;
+}
+ button{
+    background-color: rgba(226, 46, 226, 0.397);
+ }
+  
+
+.highscore{
+    float: right;
+}
+.timer{
+    float:left;
+}
+.start{
+    
+    /* margin: auto; */
+    margin-left: 50%;
+}
+
+@media screen and (max-width: 768px) {
+  
+}
