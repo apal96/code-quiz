@@ -109,7 +109,7 @@ function startQuiz(){
     startButton.setAttribute("style","display:none");
     timer();
     displayQuestionAnswer(questionAnswers.q1,questionAnswers.Answersq1,q1CorrectAnswer);
-    checkAnswer(AnswerB.innerText,qCA)
+    // checkAnswer(AnswerB.innerText,qCA);
     
     displayQuestionAnswer(questionAnswers.q2,questionAnswers.Answersq2,q2CorrectAnswer);
     
