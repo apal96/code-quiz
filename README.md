@@ -10,9 +10,10 @@ One paragraph of project description goes here.
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://apal96.github.io/code-quiz/)
+![Deployed Website Gif](Jun-29-2021%2023-22-36.gif?raw=true)
 
-
+https://github.com/apal96/code-quiz/blob/ffe43ddbbaf5b3d6c899538e9224355a1405d44e/Jun-29-2021%2023-22-36.gif
 ## Authors
 
 * **ALISHA PAL** 
